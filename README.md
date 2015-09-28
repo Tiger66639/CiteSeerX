@@ -1,4 +1,5 @@
 #CiteSeerX
+[![Build Status](https://travis-ci.org/Tiger66639/CiteSeerX.svg)](https://travis-ci.org/Tiger66639/CiteSeerX)
 
 This is the source code for the [CiteSeerX academic digital library.](http://citeseerx.ist.psu.edu) 
 
